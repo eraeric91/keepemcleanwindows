@@ -463,4 +463,10 @@ footer {
     width: auto;
     }
 
+    .stars {
+    max-width: 128px;
+    text-align: center;
+    margin: 16px auto;
+}
+
 }
