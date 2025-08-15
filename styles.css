@@ -458,4 +458,9 @@ footer {
         font-size: 14px;
     }
 
+    .logo img {
+    height: 24px;
+    width: auto;
+}
+
 }
